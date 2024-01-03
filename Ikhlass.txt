@@ -1,0 +1,6 @@
+Name :Mohammed Ikhlaas Moin
+Age: 15
+Grade: 10
+Hobbies : coding, technology, videogames
+country: India
+Project name: Credit card Approval Prediction
